@@ -45,7 +45,19 @@ tex形式ですが、github上で閲覧できますのでご安心ください�
 特に気にせず、読み進めて下さい。      
 
 
+# 考えた質問の提出先
+
+以下のGoogleフォームからお願いします。
+
+https://docs.google.com/forms/d/e/1FAIpQLSftHPj1Btmz-sBQw8zqblFP1CjXbLZZp1qCUveu1nn_hMJbYg/viewform?usp=sf_link
+
+
 
 # 何か分からない事などある場合
 
-LINEでもTwitterでも連絡ください。24時間対応しているので多分すぐ返信します。     
+LINEでもTwitterでも連絡ください。24時間対応しているので多分すぐ返信できます。     
+
+
+# 最後に
+
+各ファイルのデータは荒木先生の所有物になりますので、外部への持ち出しなどはしないようにお願いします。
