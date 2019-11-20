@@ -63,7 +63,7 @@ tex形式ですが、github上で閲覧できますのでご安心ください�
 
 以下のGoogleフォームからお願いします。
 
-https://docs.google.com/forms/d/e/1FAIpQLSftHPj1Btmz-sBQw8zqblFP1CjXbLZZp1qCUveu1nn_hMJbYg/viewform?usp=sf_link
+[link](https://docs.google.com/forms/d/e/1FAIpQLSftHPj1Btmz-sBQw8zqblFP1CjXbLZZp1qCUveu1nn_hMJbYg/viewform?usp=sf_link){:target="_blank"}
 
 
 # 4.質問と回答を作る方法
