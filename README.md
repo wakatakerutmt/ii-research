@@ -25,17 +25,21 @@
 
 # 2.考えた質問の提出先
 
-以下からお願いします。
+以下からお願いします。(ctrl押しながらクリックで別タブで開けます)
+
 
 Goggleフォーム①　（回答がテキストにある場合）
+
+
 https://docs.google.com/forms/d/e/1FAIpQLSftHPj1Btmz-sBQw8zqblFP1CjXbLZZp1qCUveu1nn_hMJbYg/viewform?usp=sf_link
 
-(ctrl押しながらクリックで別タブで開く)
+
 
 Goggleフォーム②　（回答がテキストにない場合）
+
+
 https://docs.google.com/forms/d/e/1FAIpQLSftHPj1Btmz-sBQw8zqblFP1CjXbLZZp1qCUveu1nn_hMJbYg/viewform?usp=sf_link
 
-(ctrl押しながらクリックで別タブで開く)
 
 
 # 3.slideフォルダの説明  
