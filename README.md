@@ -38,7 +38,7 @@ https://github.com/wakatakerutmt/ii-research/blob/master/FAQ.md
 Goggleフォーム①　（回答がテキストにある場合）
 
 
-https://forms.gle/SBRwPBXq6ujR9WEp9　　　　
+https://forms.gle/SBRwPBXq6ujR9WEp9   
 
 
 
