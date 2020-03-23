@@ -43,7 +43,7 @@ https://forms.gle/SBRwPBXq6ujR9WEp9
 
 
 Goggleフォーム②　（回答がテキストにない場合）
-
+(現状こちらは使用していない)
 
 https://forms.gle/gEBXakG5sVx6vEq57
 
